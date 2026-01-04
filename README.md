@@ -8,7 +8,7 @@ Garak - https://github.com/NVIDIA/garak
 
 Giskard - https://github.com/Giskard-AI/giskard-oss
 
-**Agentic Ai**
+**Agentic AI**
 
 SafetyBench - https://github.com/thu-coai/Agent-SafetyBench
 
