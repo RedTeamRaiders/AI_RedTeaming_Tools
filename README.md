@@ -10,6 +10,6 @@ Giskard - https://github.com/Giskard-AI/giskard-oss
 
 **Agentic Ai**
 
-https://github.com/thu-coai/Agent-SafetyBench
+SafetyBench - https://github.com/thu-coai/Agent-SafetyBench
 
-https://github.com/splx-ai/agentic-radar
+agentic-radar - https://github.com/splx-ai/agentic-radar
